@@ -23,7 +23,7 @@ To run the code in this repository, you need the following dependencies:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/data-driven-revenue-management.git
+git clone https://github.com/your-username/neural-network-approach-to-revenue-management.git
 ```
 
 2. Install the required dependencies:
