@@ -1,10 +1,10 @@
-# Data-Driven Revenue Management
+# Neural Network Approach to Data-Driven Revenue Management
 
-This repository contains a Python implementation of the data-driven revenue management methodology proposed in the paper "[Revenue Management without Demand Forecasting: A Data-Driven Approach for Bid Price Generation](https://arxiv.org/abs/2304.07391)" by Ezgi C. Eren et al.
+This repository contains a Python implementation of reproducing the results of the paper "[Revenue Management without Demand Forecasting: A Data-Driven Approach for Bid Price Generation](https://arxiv.org/abs/2304.07391)" by Ezgi C. Eren et al.
 
 ## Overview
 
-The goal of this project is to provide a data-driven approach for generating bid prices in revenue management systems without relying on demand forecasting. The methodology utilizes historical booking data to estimate the value of each unit of airline seat capacity at any given time-to-departure. It employs a neural network model to predict bid prices based on the remaining capacity and days-to-departure.
+The goal of this project is to reproduce a neural network approach for generating bid prices in revenue management systems without relying on demand forecasting. The methodology utilizes historical booking data to estimate the value of each unit of airline seat capacity at any given time-to-departure. It employs a neural network model to predict bid prices based on the remaining capacity and days-to-departure.
 
 The implementation includes the following key components:
 - Observation building: Transforming historical booking data into a proxy of bid prices.
